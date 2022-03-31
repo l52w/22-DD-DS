@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: "맑은 고딕";
+    font-size: 14px;
+}
+/*여기부터 와이어프레임 코딩*/
+#box {
+    width: 1200px;
+    margin: 0 auto;
+}
+.head_box {
+    width: 1200px;
+    height: 100px;
+    background: red;
+}
+.logo {
+    width: 250px;
+    height: 100%;
+    float: left;
+    background: black;
+}
+.navi {
+    width: 900px;
+    height: 100%;
+    float: right;
+    background: #999999;
+}
+.slide_box {
+    width: 1200px;
+    height:300px;
+    background: orange;
+    clear: both;
+}
+.content_box {
+    width: 1200px;
+    height: 200px;
+    background: green;
+}
+.notice_box {
+    width: 400px;
+    height: 100%;
+    background: skyblue;
+    float: left;
+}
+.banner_box {
+    width: 400px;
+    height: 100%;
+    background: olive;
+    float: left;
+}
+.icon_box {
+    width: 400px;
+    height: 100%;
+    background: yellow;
+    float: left;
+}
+.footer_box {
+    width: 1200px;
+    height: 100px;
+    background: blue;
+    clear: both;
+}
+.down_logo {
+    width: 250px;
+    height: 100%;
+    background: #cccccc;
+    float: left;
+}
+.copyright {
+    width: 700px;
+    height: 100%;
+    background: #555555;
+    float: left;
+}
+.sns {
+    width: 250px;
+    height: 100%;
+    background: #efefef;
+    float: left;
+}
