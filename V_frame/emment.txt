@@ -1,1 +1,0 @@
-#box>(.left_box>.logo+.navi)+(.right_box>.slide+.contents>.notice_box+.banner_box+.icon_box^.footer>.down_logo+.copyright>.down_menu+.copy) 
