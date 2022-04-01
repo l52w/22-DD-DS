@@ -11,7 +11,7 @@
 (2) h_frame - [세로형 와이어프레임]
 ![image](https://user-images.githubusercontent.com/62008219/160992772-ce15afbc-78ac-4923-9910-173df907e5f4.png)
 (3) rubato2 - [메뉴, 슬라이드 구현]
-![image](https://user-images.githubusercontent.com/62008219/160993042-a74c8e95-93ae-480a-a020-5f919debafde.png)
+![image](https://user-images.githubusercontent.com/62008219/161181553-a31c9e6e-f9a0-4a58-be32-11ff769a19df.png)
 
 
 # 처리 과정
