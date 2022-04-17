@@ -17,8 +17,8 @@
 (5) left_menu - [왼쪽 메뉴 연습]
 ![image](https://user-images.githubusercontent.com/62008219/163710384-5fb3987a-8b16-4ee7-bf43-b9ebdffb4838.png)
 (6) tab - [탭 메뉴 구현]
-![image](https://user-images.githubusercontent.com/62008219/163710471-9f057158-ba34-4f30-9fc2-b72f1cc4cf8b.png){: width="100" height="100"}
-![image](https://user-images.githubusercontent.com/62008219/163710485-0b0b44ee-a089-41fe-b860-87ff9189e97e.png){: width="100" height="100"}
+![image](https://user-images.githubusercontent.com/62008219/163710471-9f057158-ba34-4f30-9fc2-b72f1cc4cf8b.png)
+![image](https://user-images.githubusercontent.com/62008219/163710485-0b0b44ee-a089-41fe-b860-87ff9189e97e.png width="300" height="300")
 
 
 
